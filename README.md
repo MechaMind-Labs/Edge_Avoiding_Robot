@@ -26,14 +26,7 @@ source /opt/ros/humble/setup.bash
 echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
 ````
 
-### 3️⃣ Set RMW Implementation (CycloneDDS)
-
-```bash
-export RMW_IMPLEMENTATION=rmw_cyclonedds_cpp
-echo "export RMW_IMPLEMENTATION=rmw_cyclonedds_cpp" >> ~/.bashrc
-```
-
-### 4️⃣ Source `.bashrc`
+### 3️⃣ Source `.bashrc`
 
 ```bash
 source ~/.bashrc

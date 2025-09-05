@@ -147,8 +147,3 @@ Maintained by **[Curious-Utkarsh](https://github.com/Curious-Utkarsh)**
 Inspired by real-world **edge-avoidance robotics** applications.
 
 ---
-
-```
-
-Would you like me to also add **badges** (ROS 2 Humble, Gazebo, Ubuntu) at the top to make the README look more professional?
-```

@@ -1,6 +1,3 @@
-Here’s a clean and polished **GitHub README.md** for your repo 👇
-
-````markdown
 # 🤖 Simulated Edge-Avoidance Robot
 
 This repository contains a **ROS 2-based mobile robot simulation** with an **edge-avoidance behavior**.  

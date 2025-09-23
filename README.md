@@ -58,6 +58,9 @@ cd Edge_Avoiding_Robot
 
 ```bash
 sudo apt install python3-rosdep
+```
+```bash
+cd bot_ws
 sudo rosdep init
 rosdep update
 ```

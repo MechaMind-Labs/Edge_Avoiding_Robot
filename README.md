@@ -46,7 +46,7 @@ sudo apt install git
 
 ```bash
 cd ~
-git clone git@github.com:MechaMind-Labs-LLP/Edge_Avoiding_Robot.git
+git clone git@github.com:MechaMind-Labs/Edge_Avoiding_Robot.git
 cd Edge_Avoiding_Robot
 ```
 
@@ -65,6 +65,7 @@ rosdep update
 ### 8️⃣ Install package dependencies
 
 ```bash
+cd bot_ws
 rosdep install --from-paths src -y --ignore-src --skip-keys="ament_python"
 ```
 

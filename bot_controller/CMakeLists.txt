@@ -10,18 +10,9 @@ find_package(sensor_msgs REQUIRED)
 find_package(nav_msgs REQUIRED)
 find_package(tf2_ros REQUIRED)
 find_package(tf2 REQUIRED)
-find_package(Eigen3 REQUIRED)
 find_package(trajectory_msgs REQUIRED)
 find_package(twist_mux_msgs REQUIRED)
 find_package(rclcpp_action REQUIRED)
-
-include_directories(include)
-include_directories(${EIGEN3_INCLUDE_DIR})
-
-install(
-  DIRECTORY include
-  DESTINATION include
-)
 
 install(
   DIRECTORY launch config

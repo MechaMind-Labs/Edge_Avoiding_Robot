@@ -5,7 +5,7 @@ The robot uses a simulated **LIDAR sensor in Gazebo** and reacts to edges or dro
 
 ---
 ## 🎥 Edge Avoiding Robot Demo  
-https://github.com/user-attachments/assets/fb6b2625-6afc-474e-b419-62a52b776808
+https://github.com/user-attachments/assets/3b2d8be2-960e-475b-8833-b67db011a845
 
 ---
 

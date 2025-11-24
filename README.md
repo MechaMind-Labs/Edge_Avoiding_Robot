@@ -4,6 +4,10 @@ This repository contains a **ROS 2-based mobile robot simulation** with an **edg
 The robot uses a simulated **LIDAR sensor in Gazebo** and reacts to edges or drops detected in its environment.
 
 ---
+## 🎥 Edge Avoiding Robot Demo  
+https://github.com/user-attachments/assets/fb6b2625-6afc-474e-b419-62a52b776808
+
+---
 
 ## 📦 Prerequisites
 
